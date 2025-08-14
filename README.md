@@ -25,7 +25,7 @@ A mobile-responsive chatbot web application built with Python Flask and Bootstra
 1. **Clone the repository**:
    ```bash
    git clone <repository-url>
-   cd chatbot
+   cd simple_chatbot
    ```
 
 2. **Create a virtual environment**:
@@ -122,7 +122,7 @@ A mobile-responsive chatbot web application built with Python Flask and Bootstra
 ## File Structure
 
 ```
-chatbot/
+simple_chatbot/
 ├── app.py                # Flask application
 ├── models.py             # Database models
 ├── routes.py             # Application routes
